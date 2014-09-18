@@ -6,7 +6,7 @@
  * 2013, October
  *
  * Implements directory monitoring program that informs the user when
- * a file is CREATED, MODIFIED OR DELETED
+ * a file is CREATED, MODIFIED OR DELETED in the specified directory
  ***************************************************************************/
 
 #include <unistd.h>
